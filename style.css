@@ -98,6 +98,6 @@ footer{
 .form-control:focus{
   background-color: var(--gray-color);
 }
-.card {
+.card-3 {
   --bs-card-border-color: var(--gray-color);
 }
